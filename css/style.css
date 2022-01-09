@@ -1,0 +1,15 @@
+div > p {
+    
+    background-color: red;
+    height: 100px;
+    width: 100px;
+}
+
+.one {
+    background-color: royalblue;
+}
+
+.two {
+    opacity: 0.5;
+
+}
